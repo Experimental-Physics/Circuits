@@ -1,6 +1,6 @@
 LTspice 24.1.5 for Windows
 Circuit: C:\Users\Francerso\Documents\Francesco\UNIVERSITA'\UNIMI\Anno II\Labortatorio\Circuits\7_5\Derivatore RC.net
-Start Time: Wed May  7 19:26:19 2025
+Start Time: Fri May 30 17:23:51 2025
 solver = Normal
 Maximum thread count: 12
 tnom = 27
@@ -52,8 +52,7 @@ vernier = 0.25
 Source Step = 98.4848%
 Source stepping succeeded in finding the operating point.
 
-.step 
-Total elapsed time: 0.204 seconds.
+Total elapsed time: 0.165 seconds.
 
 Files loaded:
 C:\Users\Francerso\Documents\Francesco\UNIVERSITA'\UNIMI\Anno II\Labortatorio\Circuits\7_5\Derivatore RC.net
